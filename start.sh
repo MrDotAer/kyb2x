@@ -14,7 +14,7 @@ cat <<EOF >/config.json
             "settings": {
                 "clients": [
                     {
-                        "id": "80cb5658-97d3-4b18-8085-2f5da21a4b66",
+                        "id": "0bea0fa9-06bb-4bd5-88c6-6ab8ccb8ec76",
                         "alterId": 0
                     }
                 ],
